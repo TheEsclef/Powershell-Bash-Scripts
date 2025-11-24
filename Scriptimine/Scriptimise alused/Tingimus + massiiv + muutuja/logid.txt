@@ -1,3 +1,0 @@
-2025-11-05 10:30:02;Kasutaja1;Sisselogimine õnnestus
-2025-11-05 10:32:18;Kasutaja2;Vale parool
-2025-11-05 10:35:45;Kasutaja1;Väljalogimine
