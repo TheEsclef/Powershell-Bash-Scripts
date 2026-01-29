@@ -138,4 +138,5 @@ function steam{
 #SKRIPT ALUSTATAKSE - FUNKTSIOONID LAETAKSE
 debloat
 browser
+
 steam
